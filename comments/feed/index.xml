@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for SaasTek	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 05 Jul 2022 12:22:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>
+		Comment on Advantages Of Chatbots by admin		</title>
+		<link>/advantages-of-chatbots/#comment-2</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 12:22:26 +0000</pubDate>
+		<guid isPermaLink="false">https://wordpress.iqonic.design/product/wp-free/talkie/?p=140#comment-2</guid>
+
+					<description><![CDATA[Test Of Comments]]></description>
+			<content:encoded><![CDATA[<p>Test Of Comments</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Artificial Inteligence Applied by admin		</title>
+		<link>/artificial-inteligence-applied/#comment-4</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 12:21:53 +0000</pubDate>
+		<guid isPermaLink="false">https://wordpress.iqonic.design/product/wp-free/talkie/?p=142#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/artificial-inteligence-applied/#comment-3&quot;&gt;admin&lt;/a&gt;.
+
+Test 2]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/artificial-inteligence-applied/#comment-3">admin</a>.</p>
+<p>Test 2</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Artificial Inteligence Applied by admin		</title>
+		<link>/artificial-inteligence-applied/#comment-3</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 12:17:06 +0000</pubDate>
+		<guid isPermaLink="false">https://wordpress.iqonic.design/product/wp-free/talkie/?p=142#comment-3</guid>
+
+					<description><![CDATA[Test]]></description>
+			<content:encoded><![CDATA[<p>Test</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
